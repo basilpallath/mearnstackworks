@@ -1,0 +1,116 @@
+div{
+    height: 200px;
+    width: 100px;
+}
+#a{
+    background-color: rgb(128, 0, 0);
+    margin-left: 300px;
+    margin-top: 75px;
+}
+#b{
+    background-color:rgb(0, 255, 191) ;
+    margin-left:408px ;
+    margin-top: -199px;
+}
+#c{
+    background-color: rgb(0, 255, 128);
+    margin-left: 517px;
+    margin-top: -200px;
+}
+#d{
+    background-color: forestgreen;
+    margin-left: 625px;
+    margin-top: -201px;
+}
+#e{
+    background-color: rgb(202, 98, 150);
+    margin-left: 733px;
+    margin-top: -200px;
+}
+#f{
+    background-color: yellow;
+    margin-left: 193px;
+    margin-top: 40px;
+}
+#g{
+    background-color: tomato;
+    margin-left: 300px;
+    margin-top:-200px ;
+}
+#h{
+    background-color: rgb(202, 136, 202);
+    margin-left:408px ;
+    margin-top:-200px ;
+}
+#i{
+    background-color: blueviolet;
+    margin-left: 517px;
+    margin-top: -200px;
+}
+#j{
+    background-color: blue;
+    margin-top: -200px;
+    margin-left: 625px;
+}
+#k{
+    background-color: rgb(94, 6, 129);
+    margin-left: 733px;
+    margin-top: -200px;
+}
+#l{
+    background-color:#9494b8;
+    margin-left: 841px;
+    margin-top: -200px;
+}
+#m{
+    background-color: #a96be2;
+    margin-left:85px;
+    margin-top: 29px;
+}
+#n{
+    background-color: cornsilk;
+    margin-left: 193px;
+    margin-top: -200px;
+}
+#o{
+    background-color: rgb(238, 238, 149);
+    margin-left: 300px;
+    margin-top: -200px;
+}
+#p{
+    background-color: rgb(192, 164, 3);
+    margin-left: 408px;
+    margin-top: -200px;
+}
+#q{
+    background-color: rgb(243, 14, 213);
+    margin-left: 517px;
+    margin-top: -200px;
+}
+#r{
+    background-color: rgba(202, 12, 12, 0.767);
+    margin-left: 625px;
+    margin-top: -200px;
+    
+}
+#s{
+    background-color: rgb(96, 104, 214);
+    margin-left: 733px;
+    margin-top: -200px;
+}
+#t{
+    background-color: #666699;
+    margin-left: 841px;
+    margin-top: -200px;
+}
+#u{
+    background-color: tomato;
+    margin-left: 948px;
+    margin-top: -200px;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}

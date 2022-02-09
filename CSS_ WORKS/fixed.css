@@ -1,0 +1,10 @@
+div{
+    width: 500px;
+    height: 300px;
+    border: black 2px solid;
+    color: blanchedalmond;
+    background-color: blue;
+    position: fixed;
+    left: 300px;
+    top: 300px;
+}

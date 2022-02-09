@@ -1,0 +1,28 @@
+.row{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    background-color: rgb(236, 191, 101);
+   justify-content:space-around;
+   align-items: center;
+
+}
+.col{
+    width: 239px;
+    height: 463px;
+    background-color: chartreuse;
+    border: crimson 2px solid;
+}
+.col1{
+    background-color: darkblue;
+}
+.col2{
+    background-color: darkmagenta;
+}
+.col3{
+    background-color: darkslategray;
+
+}
+.col4{
+    background-color: floralwhite;
+}

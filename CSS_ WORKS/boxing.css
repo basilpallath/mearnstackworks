@@ -1,0 +1,13 @@
+div{
+    height: 300px;
+    width: 200px;
+}
+#box1{
+    background-color: darkslateblue;
+    margin-top: 200px;
+}
+#box2{
+    background-color: dimgray;
+    margin-left: 300px;
+    margin-top: -302px;
+}
